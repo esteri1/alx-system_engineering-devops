@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Configure ufw so that it blocks all incoming traffic,exept TCP ports:
 # 22 (SSH)
 # 443 (HTTPS SS
